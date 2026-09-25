@@ -1,70 +1,158 @@
-Tarun Kumar | Data Engineer | Software Engineer (2026)
-👋 About Me
+# Tarun Kumar | AI Engineer | Software Engineer (2026)
 
-Hi, I'm Tarun Kumar, a final-year B.Tech Computer Science student (2026) with strong interest in Data Engineering, Data Analytics, and Backend Systems.
+👋 **About Me**
 
-I specialize in building end-to-end data pipelines, working with SQL, Python, PySpark, and Cloud Data Platforms, and designing scalable data workflows using modern architecture patterns.
+Hi, I'm **Tarun Kumar**, a Computer Science Engineering graduate (2026) with a strong interest in **AI Engineering, Voice AI, Agentic Systems, Data Engineering, and Backend Development**.
 
-🎯 Actively seeking: Data Engineer / Data Analyst / Software Engineer roles (2026)
+Currently working as an **AI Engineer Intern**, where I work on building AI-powered systems, agentic workflows, RAG pipelines, and voice-based applications.
 
-🛠️ Technical Skills
-👨‍💻 Programming
+My background in Data Engineering helps me design reliable data pipelines and retrieval systems that support AI applications.
 
-Python
+🎯 **Currently focused on:** AI Engineering | Voice AI | Agentic AI | RAG | Backend Systems
 
-SQL
+---
 
-PySpark
+## 🛠️ Technical Skills
 
-🗄️ Databases
+### 🤖 AI & Machine Learning
 
-MySQL
+* LLM Applications
+* RAG (Retrieval-Augmented Generation)
+* Agentic Workflows
+* AI Agents
+* Prompt Engineering
+* Classification
+* Embeddings & Vector Search
+* LangGraph
+* MCP (Model Context Protocol)
 
-PostgreSQL
+### 🎙️ Voice AI
 
-Delta Lake
+* Voice AI Agents
+* Real-time AI Applications
+* WebRTC
+* LiveKit
+* Voice & Telephony Integrations
+* Conversational AI
 
-☁️ Data Engineering & Cloud
+### 👨‍💻 Programming
 
-Azure Data Factory
+* Python
+* SQL
+* PySpark
 
-Azure Databricks
+### 🗄️ Databases & Vector Storage
 
-Delta Tables
+* PostgreSQL
+* MySQL
+* pgvector
+* Delta Lake
+* Vector Databases
 
-Medallion Architecture
+### 📊 Data Engineering
 
-ETL / ELT Pipelines
+* ETL / ELT Pipelines
+* Data Cleaning & Transformation
+* Data Ingestion
+* Web Scraping
+* Data Modeling
+* Medallion Architecture
+* Azure Data Factory
+* Azure Databricks
+* PySpark
 
-Data Modeling
+### ☁️ Cloud & Tools
 
-📊 Data Analytics
+* Microsoft Azure
+* Docker
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* uv
 
-Pandas
+---
 
-NumPy
+## 💼 Featured Projects
 
-Data Cleaning & Transformation
+### 🔹 AI-Powered RAG Knowledge System
 
-Exploratory Data Analysis (EDA)
+Built a **website-to-RAG ingestion pipeline** for converting website content into a searchable knowledge base for AI applications.
 
-🔧 Tools
+**Key Components:**
 
-Git & GitHub
+* Web crawling and content extraction
+* Page classification
+* Content parsing and cleaning
+* Intelligent document chunking
+* Embedding generation
+* Vector storage using PostgreSQL + pgvector
+* Metadata management
+* Semantic retrieval
+* RAG-ready knowledge base
 
-Jupyter Notebook
+**Tech Stack:** Python, PostgreSQL, pgvector, Embeddings, RAG, Web Scraping, Docker
 
-VS Code
+---
 
-💼 Featured Projects
-🔹 End-to-End Data Engineering Pipeline (Azure + Databricks)
+### 🔹 Voice AI & Agentic Systems
 
-Built real-time data ingestion pipelines using Azure Data Factory
+Working on **AI-powered voice agents** designed to automate business workflows and conversational tasks.
 
-Implemented Medallion Architecture (Bronze, Silver, Gold layers)
+**Areas of Work:**
 
-Used PySpark for transformation and Delta Lake for optimized storage
+* AI voice agents
+* Agentic workflows
+* Real-time communication
+* Voice-based automation
+* Tool calling
+* Retrieval-augmented generation
+* Conversational workflows
+* Backend integrations
 
-Improved query performance using partitioning and Delta optimizations
+**Tech Stack:** Python, LiveKit, WebRTC, LLMs, RAG, Agentic AI
 
-👉 Tech Stack: Azure, PySpark, Delta Lake, SQL
+---
+
+### 🔹 End-to-End Data Engineering Pipeline
+
+Built scalable data pipelines using modern cloud data engineering architecture.
+
+**Key Components:**
+
+* Data ingestion using Azure Data Factory
+* Data transformation using PySpark
+* Medallion Architecture
+* Delta Lake / Delta Tables
+* Data modeling
+* ETL / ELT workflows
+* Query optimization and partitioning
+
+**Tech Stack:** Azure, Azure Databricks, PySpark, Delta Lake, SQL
+
+---
+
+## 🧠 Currently Learning
+
+* Advanced AI Agent Architecture
+* LangGraph
+* RAG & Retrieval Systems
+* Voice AI
+* Real-Time AI Applications
+* MCP
+* LLM Application Development
+* AI System Design
+* Backend Architecture
+
+---
+
+## 📈 Career Focus
+
+I'm interested in opportunities involving:
+
+**AI Engineering • Voice AI • Agentic AI • RAG • Backend Engineering • Data Engineering**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in working on interesting problems involving **AI, data, automation, and scalable software systems**.
